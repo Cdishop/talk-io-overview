@@ -1,0 +1,147 @@
+Meaningful and productive work: What we know and what we don't
+
+Making work meaningful and productive. What we know and what we don't.
+
+
+
+## use
+
+Work life balance
+- know: balance between leisure and work. people differ in what makes them satisfied
+- don't: at home with covid, child abuse and domestic abuse is skyrocketing
+
+Diversity
+- know: diverse teams perform well on lab tasks
+- know: diverse teams don't like each other
+- don't: how do you resolve that tension?
+- don't: public understanding: deep (knowledge, expertise) vs surface (pigmentation, height)
+- don't: beyond lab tasks
+
+
+Meaningful work
+- know: job characteristics model
+- don't: how do you embed that in modern work?
+++ collaboration
+++ distractions
+++ virtual and distributed work
+
+
+Career success (financial, moving up, happiness)
+- know: predictors
+++ optimism, assertivness, coscientiousness
+++ 2 parents in the household
+++ cognitive ability
+++ repetition (practice, job training, education). time on task. Hours devoted to building your human capital.
+++ personality more important for low complex jobs
+++ cog ability more important for high complex jobs
+++ big fish small pond vs small fish big pond
+- don't: moving jobs, protean careers, boundaryless careers. how do these predictors operate now? Our studies were on fortune 500 companies back in the 80s and 90s when people still worked full careers at one position.
+
+
+
+Collective Performance & Effective Teams
+- know division of labor. know wisdom of crowds
+- we don't know how to balance these things with process loss
+
+- know shared vision/goals, transactive memory, leadership 
+- show photograph of ed salas and scott tannenbaum book
+- to disagree with these giants is to commit academic suicide, but I'm arrogant enough to think that I'm right
+++ but that's like saying "good basketball teams score a lot of points"
+
+
+
+Individual performance
+- know: 
+++ you heard me speak about meaningful work just before. being good at your job is different from being satisfied (positive evaluation toward) in your job. 
+++ self regulation: goals, feedback, agent & environment
+++ not a mystery how to learn
+++ not a mystery how to write well
+++ not a mystery how to communicate well
+- don't: translating to practice
+
+
+
+Interviews & Selection
+- know: structure protocal (effective, fair, retain best candidates)
+- know: importance of task and job analysis. 
+- don't: utility of AI interview vandors
+
+
+### Scales
+- measurement invariance
+- jingle jangle fallacy
+- strategic orientation, growth mindset, self esteem, self efficacy, self control, grit
+- how are you defining your DV?
+
+Duckworth et al., 2020 “Cognitive and noncognitive predictors of success “
+
+
+What predicts a person’s success in military school?
+- cog ability predicts academic performance
+- grit predicts graduation
+- physical ability predicts training success
+
+
+So, a good paper on the notion of “how are you defining your DV? Doing so will give you a good sense of what predicts it”
+
+
+Keywords
+- individual differences
+- performance
+- military
+- curvilinear effects
+
+How are you defining team effectiveness?
+- sustained performance? positive results over long periods of time
+- viability - members who want to continue working together
+
+
+
+### networks
+
+
+
+### Longitudinal Dynamics
+- fluffy concept
+- how do you model many time points? many people few time points? many people many time points?
+- within between distinction
+
+
+
+### simulating
+
+enter into computer
+- covid
+
+box and arrow diagram. this is a model 
+- code. this is a model
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+## My own work
+
+Cooperation
+- why are people helpful?
+- collective level: when is being helpful damaging to the collective...
+
+
+
+
+
+## caveats
+
+Not applied. Not "I." Lots of "O." I didn't say anything about interviews or selection.
+
+
+
