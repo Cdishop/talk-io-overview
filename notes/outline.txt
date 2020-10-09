@@ -4,6 +4,7 @@ Making work meaningful and productive. What we know and what we don't.
 
 
 
+
 ## use
 
 Work life balance
@@ -31,6 +32,7 @@ Career success (financial, moving up, happiness)
 ++ optimism, assertivness, coscientiousness
 ++ 2 parents in the household
 ++ cognitive ability
+++ social support
 ++ repetition (practice, job training, education). time on task. Hours devoted to building your human capital.
 ++ personality more important for low complex jobs
 ++ cog ability more important for high complex jobs
@@ -124,7 +126,12 @@ box and arrow diagram. this is a model
 
 
 
+# notes
 
+nadav general IO
+- cooperation and collective performance
+- OCBs, citizenship behaviors are only beneficial once they are ramped up enough across the organization. 
+- that’s my in to “my research…”
 
 
 
@@ -143,5 +150,33 @@ Cooperation
 
 Not applied. Not "I." Lots of "O." I didn't say anything about interviews or selection.
 
+
+
+## possible others 
+
+
+
+meta analysis
+- new corrections
+- longitudinal
+
+Goal setting
+- specific, difficult goals (better than "do your best goals")
+- don't know. 
+
+
+
+Individual Differences
+- General Intelligence
+- Specific Intelligence
+- Preferences (interests & values)
+- Personality
+
+- problem: way too many constructs
+
+
+
+Leadership
+- person who talks the most and is perceived as attractive & assertive gets rated by others as the leader
 
 
